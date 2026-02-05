@@ -14,7 +14,7 @@
 <a href="mailto:your-email@gmail.com">
   <img src="https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://your-portfolio.com">
+<a href="https://anshuman-singh.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-818cf8?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
 
