@@ -1,76 +1,130 @@
 <div align="center">
+
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:818cf8,100:2dd4bf&height=200&section=header&text=Anshuman%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Engineer%20|%20AI/ML%20|%20Full%20Stack&descAlignY=55&descSize=18"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&random=false&width=600&lines=Building+intelligent+AI-powered+solutions;LLM+%7C+RAG+%7C+LangChain+Enthusiast;Full+Stack+Developer+%26+Bug+Hunter)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Social Badges -->
+<a href="https://linkedin.com/in/anshuman55a">
+  <img src="https://img.shields.io/badge/LinkedIn-2dd4bf?style=for-the-badge&logo=linkedin&logoColor=0a0a0f" alt="LinkedIn"/>
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-818cf8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-2dd4bf?style=for-the-badge&logo=firefox&logoColor=0a0a0f" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=anshuman55a&label=Profile%20Views&color=2dd4bf&style=flat-square" alt="Profile Views"/>
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## ⚡ About Me
+
+```typescript
+const anshuman = {
+  role: "Associate Data Science Engineer @ Gramener",
+  focus: ["LLM", "RAG", "AI Agents", "Full Stack"],
+  currentlyBuilding: "Intelligent document processing systems",
+  funFact: "I find fixing bugs more satisfying than writing new features! 🐛"
+};
+```
+
+- 🔭 **Working on** — Production-grade LLM pipelines & AI Agents
+- 🌱 **Learning** — Advanced RAG techniques, Vector Databases
+- 💡 **Passion** — Turning complex problems into elegant solutions
+- ⚡ **Achievement** — Built automation saving **$50K+ annually**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<!-- AI/ML -->
+<img src="https://img.shields.io/badge/Python-2dd4bf?style=for-the-badge&logo=python&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/LangChain-818cf8?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-2dd4bf?style=for-the-badge&logo=openai&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/FastAPI-818cf8?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-2dd4bf?style=for-the-badge&logo=react&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/JavaScript-818cf8?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-2dd4bf?style=for-the-badge&logo=flutter&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/HTML5-818cf8?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-2dd4bf?style=for-the-badge&logo=css3&logoColor=0a0a0f"/>
+
+<!-- Cloud & Tools -->
+<img src="https://img.shields.io/badge/AWS-818cf8?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2dd4bf?style=for-the-badge&logo=docker&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/MySQL-818cf8?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-2dd4bf?style=for-the-badge&logo=firebase&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Git-818cf8?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+---
+
+## 🏢 Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Gramener [Straive]
+**Associate Data Science Engineer**  
+`Sep 2024 - Present` · Hyderabad, India
+
+▹ Built automation reducing processing from **1 day → 1 minute**  
+▹ Engineered **5-stage RAG pipeline** for 1000+ docs/day  
+▹ Designed event-driven architecture with **AWS SQS, Lambda, DynamoDB**  
+▹ Developed **AI agents** for autonomous document classification
+
+</td>
+<td width="50%">
+
+### 📱 MyCLNQ Health
+**Software Development Intern**  
+`Feb 2024 - June 2024` · Singapore (Remote)
+
+▹ Implemented foreground notifications in mobile apps  
+▹ Added RTL support for Arabic localization  
+▹ Fixed PDF handling bugs improving reliability
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshuman55a&bg_color=0d1117&color=2dd4bf&line=818cf8&point=2dd4bf&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Dev Quote
   
-# 👨‍💻 Anshuman Singh
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Quote"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer;Bug+Hunter+%26+Problem+Solver;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=anshuman55a&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:818cf8,100:2dd4bf&height=120&section=footer"/>
 
-</div>
-
----
-
-## 🚀 About Me
-
-- 🔭 I'm currently working on **building impactful web applications**
-- 🌱 I'm currently learning **advanced React patterns & cloud technologies**
-- 💡 I love the challenge of **debugging complex issues** and finding creative solutions
-- 🎯 Goal: Create exceptional user experiences through clean, efficient code
-- ⚡ Fun fact: I find fixing bugs more satisfying than writing new features!
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman55a)
-
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Backend & Database
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### Cloud & Tools
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshuman55a&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
