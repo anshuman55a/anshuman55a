@@ -1,26 +1,26 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:818cf8,100:2dd4bf&height=200&section=header&text=Anshuman%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Engineer%20|%20AI/ML%20|%20Full%20Stack&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:28E0CD,50:818cf8,100:28E0CD&height=200&section=header&text=Anshuman%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Engineer%20|%20AI/ML%20|%20Full%20Stack&descAlignY=55&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&random=false&width=600&lines=Building+intelligent+AI-powered+solutions;LLM+%7C+RAG+%7C+LangChain+Enthusiast;Full+Stack+Developer+%26+Bug+Hunter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=28E0CD&center=true&vCenter=true&random=false&width=600&lines=Building+intelligent+AI-powered+solutions;LLM+%7C+RAG+%7C+LangChain+Enthusiast;Full+Stack+Developer+%26+Bug+Hunter)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social Badges -->
+<!-- Social Badges - Using indigo for better white text visibility -->
 <a href="https://linkedin.com/in/anshuman55a">
-  <img src="https://img.shields.io/badge/LinkedIn-2dd4bf?style=for-the-badge&logo=linkedin&logoColor=0a0a0f" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-818cf8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-818cf8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-2dd4bf?style=for-the-badge&logo=firefox&logoColor=0a0a0f" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-818cf8?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=anshuman55a&label=Profile%20Views&color=2dd4bf&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=anshuman55a&label=Profile%20Views&color=818cf8&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -52,24 +52,24 @@ const anshuman = {
 
 <div align="center">
 
-<!-- AI/ML -->
-<img src="https://img.shields.io/badge/Python-2dd4bf?style=for-the-badge&logo=python&logoColor=0a0a0f"/>
+<!-- AI/ML - Using indigo shades for all badges -->
+<img src="https://img.shields.io/badge/Python-6366f1?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-818cf8?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-2dd4bf?style=for-the-badge&logo=openai&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/OpenAI-6366f1?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-818cf8?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 <!-- Frontend -->
-<img src="https://img.shields.io/badge/React-2dd4bf?style=for-the-badge&logo=react&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/React-6366f1?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-818cf8?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-2dd4bf?style=for-the-badge&logo=flutter&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Flutter-6366f1?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-818cf8?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-2dd4bf?style=for-the-badge&logo=css3&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/CSS3-6366f1?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <!-- Cloud & Tools -->
 <img src="https://img.shields.io/badge/AWS-818cf8?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2dd4bf?style=for-the-badge&logo=docker&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Docker-6366f1?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-818cf8?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-2dd4bf?style=for-the-badge&logo=firebase&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Firebase-6366f1?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-818cf8?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
@@ -111,7 +111,7 @@ const anshuman = {
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshuman55a&bg_color=0d1117&color=2dd4bf&line=818cf8&point=2dd4bf&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshuman55a&bg_color=0d1117&color=28E0CD&line=818cf8&point=28E0CD&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -125,6 +125,6 @@ const anshuman = {
 <br/><br/>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:818cf8,100:2dd4bf&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:28E0CD,50:818cf8,100:28E0CD&height=120&section=footer"/>
 
 </div>
